@@ -1,1 +1,1 @@
-# Titanic-Survival-Prediction-Dadhboard
+# Titanic-Survival-Prediction-Dashboard
